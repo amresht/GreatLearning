@@ -1,3 +1,9 @@
+/**
+ * @task            Read two numbers min and max and calculate sum of all numbers between min to max 
+ * @author          Amresh Tripathi
+ * @date            4-Feb-2023
+ * @version         1.0
+ */
 import java.util.*;  
 
 public class SumRange {

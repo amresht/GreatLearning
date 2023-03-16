@@ -5,8 +5,13 @@
  * @version         1.0
  */
 package app;
+import model.*;
 
 public class MainDriver {
-	// drivers class
+	// drivers class written
+	
+	AdminDepartment admn  = new AdminDepartment();
 
+
+	
 }
